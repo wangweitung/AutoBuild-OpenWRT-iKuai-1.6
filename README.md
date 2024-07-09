@@ -11,7 +11,17 @@
 
 安装的插件
 
+luci-app-ssr-plus
+
 luci-app-accesscontrol
+
+luci-app-serverchan
+
+luci-app-upnp
+
+luci-app-vlmcsd
+
+luci-app-zerotier
 
 luci-app-arpbind
 
@@ -19,13 +29,6 @@ luci-app-firewall
 
 luci-app-nlbwmon
 
-luci-app-openclash
-
-luci-app-upnp
-
-luci-app-vlmcsd
-
-luci-app-zerotier
 
 管理ip
 
