@@ -32,7 +32,7 @@ luci-app-nlbwmon
 
 管理ip
 
-http://10.1.1.5
+http://10.1.1.6
 
 
 
